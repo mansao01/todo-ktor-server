@@ -1,6 +1,6 @@
 package com.mansao01
 
-import com.mansao01.plugins.*
+import com.mansao01.routes.*
 import io.ktor.client.request.*
 import io.ktor.client.statement.*
 import io.ktor.http.*
